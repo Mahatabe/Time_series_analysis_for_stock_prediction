@@ -1,1 +1,3 @@
 # Time_series_analysis_for_stock_prediction
+
+[stock_price_prediction_a_time_series_analysis.pdf](https://github.com/Mahatabe/Time_series_analysis_for_stock_prediction/files/10365900/stock_price_prediction_a_time_series_analysis.pdf)
